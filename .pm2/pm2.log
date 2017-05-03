@@ -1,0 +1,19 @@
+2017-04-28 17:58:33: ===============================================================================
+2017-04-28 17:58:33: --- New PM2 Daemon started ----------------------------------------------------
+2017-04-28 17:58:33: Time                 : Fri Apr 28 2017 17:58:33 GMT+0800 (CST)
+2017-04-28 17:58:33: PM2 version          : 2.4.6
+2017-04-28 17:58:33: Node.js version      : 6.10.2
+2017-04-28 17:58:33: Current arch         : x64
+2017-04-28 17:58:33: PM2 home             : /root/.pm2
+2017-04-28 17:58:33: PM2 PID file         : /root/.pm2/pm2.pid
+2017-04-28 17:58:33: RPC socket file      : /root/.pm2/rpc.sock
+2017-04-28 17:58:33: BUS socket file      : /root/.pm2/pub.sock
+2017-04-28 17:58:33: Application log path : /root/.pm2/logs
+2017-04-28 17:58:33: Process dump file    : /root/.pm2/dump.pm2
+2017-04-28 17:58:33: Concurrent actions   : 2
+2017-04-28 17:58:33: SIGTERM timeout      : 1600
+2017-04-28 17:58:33: ===============================================================================
+2017-04-28 17:58:33: Starting execution sequence in -fork mode- for app name:example id:0
+2017-04-28 17:58:33: App name:example id:0 online
+2017-04-30 00:06:49: Starting execution sequence in -fork mode- for app name:mongod id:1
+2017-04-30 00:06:49: App name:mongod id:1 online
